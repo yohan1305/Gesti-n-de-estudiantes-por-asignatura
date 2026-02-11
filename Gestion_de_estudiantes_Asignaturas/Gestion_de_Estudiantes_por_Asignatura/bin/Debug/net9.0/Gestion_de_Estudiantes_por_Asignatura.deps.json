@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Gestion_de_Estudiantes_por_Asignatura/1.0.0": {
+        "runtime": {
+          "Gestion_de_Estudiantes_por_Asignatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion_de_Estudiantes_por_Asignatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
